@@ -25,8 +25,8 @@
 ---
 
 ### 📫 Me chame para conversar:
-- Instagram: [@rubatto.dev](https://instagram.com/guilherme.dev)
-- Email: guilherme@email.com
+- Instagram: [@rubatto.dev](https://instagram.com/rubatto.dev)
+- Email: rubattodev@gmail.com
 
 ---
 ⭐ Vamos crescer juntos na programação!
