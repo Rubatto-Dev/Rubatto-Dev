@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Camargo
 
-<!--
-**Rubatto-Dev/Rubatto-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software no SENAI FATESG  
+💻 Desenvolvedor com foco em soluções práticas e funcionais  
+🚀 Buscando oportunidades como freelancer e dev júnior
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ Tecnologias e Ferramentas
+- 🐍 Python | Java | JavaScript
+- 🌐 HTML, CSS, Bootstrap
+- 🧠 Integrações com APIs e projetos com IA
+- 📦 Git, GitHub, VS Code, Postman
+- 🛠️ Frameworks: Flask, Spring Boot (básico)
+
+---
+
+### 📌 O que você vai encontrar por aqui:
+- Scripts de automação úteis
+- Landing pages responsivas
+- APIs simples (CRUD, REST)
+- Projetos com design patterns
+- Testes de ideias com IA
+
+---
+
+### 📫 Me chame para conversar:
+- Instagram: [@rubatto.dev](https://instagram.com/guilherme.dev)
+- Email: guilherme@email.com
+
+---
+⭐ Vamos crescer juntos na programação!
