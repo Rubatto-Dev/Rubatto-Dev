@@ -12,4 +12,4 @@ Python · FastAPI · n8n · PostgreSQL · JavaScript · Docker
 - [portfolio](https://github.com/Rubatto-Dev/portfolio) — Portfólio pessoal
 
 ### 📫 Contato
-[![LinkedIn](badge)](https://linkedin.com/in/guirubatto) · rubattodev@gmail.com
+[![LinkedIn]](https://linkedin.com/in/guirubatto) · rubattodev@gmail.com
