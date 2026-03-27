@@ -1,32 +1,15 @@
-# 👋 Olá! Eu sou o Guilherme Camargo
+## Guilherme Rubatto · Python & Automações 🐍
 
-🎓 Estudante de Engenharia de Software no SENAI FATESG  
-💻 Desenvolvedor com foco em soluções práticas e funcionais  
-🚀 Buscando oportunidades como freelancer e dev júnior
+Desenvolvedor focado em **automação com Python e n8n**, APIs REST e
+integrações de sistemas. Eng. de Software - SENAI FATESG.
 
----
+### 🔧 Stack Principal
+Python · FastAPI · n8n · PostgreSQL · JavaScript · Docker
 
-### ⚒️ Tecnologias e Ferramentas
-- 🐍 Python | Java | JavaScript
-- 🌐 HTML, CSS, Bootstrap
-- 🧠 Integrações com APIs e projetos com IA
-- 📦 Git, GitHub, VS Code, Postman
-- 🛠️ Frameworks: Flask, Spring Boot (básico)
+### 🚀 Projetos em Destaque
+- [disparo_whatsapp](https://github.com/Rubatto-Dev/disparo_whatsapp) — Automação de WhatsApp com n8n + Evolution API
+- [agendamento-barber](https://github.com/Rubatto-Dev/agendamento-barber) — Sistema de agendamento com backend Python
+- [portfolio](https://github.com/Rubatto-Dev/portfolio) — Portfólio pessoal
 
----
-
-### 📌 O que você vai encontrar por aqui:
-- Scripts de automação úteis
-- Landing pages responsivas
-- APIs simples (CRUD, REST)
-- Projetos com design patterns
-- Testes de ideias com IA
-
----
-
-### 📫 Me chame para conversar:
-- Instagram: [@rubatto.dev](https://instagram.com/rubatto.dev)
-- Email: rubattodev@gmail.com
-
----
-⭐ Vamos crescer juntos na programação!
+### 📫 Contato
+[![LinkedIn](badge)](https://linkedin.com/in/guirubatto) · rubattodev@gmail.com
