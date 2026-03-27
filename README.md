@@ -28,5 +28,6 @@ Estudante de Engenharia de Software na SENAI FATESG.
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guirubatto)
     [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://rubatto-dev.github.io/portfolio/)
+
     rubattodev@gmail.com
     
