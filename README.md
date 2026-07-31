@@ -1,33 +1,52 @@
-## Guilherme Rubatto Camargo - Python & Automacoes
+## Guilherme Rubatto Camargo
 
-Desenvolvedor focado em **automacao com Python e n8n**, APIs REST e integracoes de sistemas.
-Estudante de Engenharia de Software na SENAI FATESG.
+AI Engineer building LLM systems in production — RAG, tool-calling agents, and
+the part most people skip: measuring whether they actually work.
 
----
-
-### Stack Principal
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+Software Engineering student at SENAI FATESG · Goiânia, Brazil
 
 ---
 
-### Projetos em Destaque
+### edital-radar — what I'm building now
 
-- [disparo_whatsapp](https://github.com/Rubatto-Dev/disparo_whatsapp) - Automacao de WhatsApp com n8n + Evolution API
-- - [BarberAutoAgend](https://github.com/Rubatto-Dev/BarberAutoAgend) - Sistema de agendamento com backend Python
-  - - [portfolio](https://github.com/Rubatto-Dev/portfolio) - Portfolio pessoal ([ver online](https://rubatto-dev.github.io/portfolio/))
-   
-    - ---
+An assistant that monitors Brazilian public tenders and surfaces the few a
+software vendor could realistically win. ~1,100 tenders are published per day;
+a vendor can serve maybe 3.
 
-    ### Contato
+- **US$0.0031 per judgment** — a three-stage cascade where a free local filter
+  discards 69% of the corpus before the paid model sees anything
+- **The evaluation set was written before the pipeline**, then used to compare
+  models: Haiku 4.5 → Sonnet 5 moved recall from 0.692 to 0.846 on an
+  identical prompt and schema
+- **A CI regression gate** that fails the build when measured quality drops —
+  verified by breaking it on purpose
+- **Langfuse tracing** with per-call cost reconciled exactly against an
+  independent ledger, surfaced on a `/metrics` panel
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guirubatto)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://rubatto-dev.github.io/portfolio/)
+→ **[github.com/Rubatto-Dev/edital-radar](https://github.com/Rubatto-Dev/edital-radar)**
 
-    rubattodev@gmail.com
-    
+---
+
+### Also here
+
+- **[JobRadar](https://github.com/Rubatto-Dev/JobRadar)** — job aggregation
+  across Gupy and Remotive, with alerts and application tracking
+- **[assistente-delivery-bedrock](https://github.com/Rubatto-Dev/assistente-delivery-bedrock)** —
+  serverless delivery assistant on AWS Step Functions + Amazon Bedrock
+- **[disparo_whatsapp](https://github.com/Rubatto-Dev/disparo_whatsapp)** —
+  WhatsApp automation with n8n and Evolution API
+
+---
+
+### Stack
+
+Python (FastAPI, SQLAlchemy) · PostgreSQL, pgvector · Node.js, TypeScript ·
+React, Next.js · Docker · GitHub Actions · Langfuse
+
+---
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/guirubatto) ·
+[Portfolio](https://rubatto-dev.github.io/portfolio/) ·
+rubattodev@gmail.com
