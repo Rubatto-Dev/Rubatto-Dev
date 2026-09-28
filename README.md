@@ -48,5 +48,4 @@ React, Next.js · Docker · GitHub Actions · Langfuse
 ### Contact
 
 [LinkedIn](https://linkedin.com/in/guirubatto) ·
-[Portfolio](https://rubatto-dev.github.io/portfolio/) ·
 rubattodev@gmail.com
