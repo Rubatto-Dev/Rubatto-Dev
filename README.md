@@ -1,51 +1,22 @@
-## Guilherme Rubatto Camargo
+<img src="./assets/banner.svg" width="100%" alt="Guilherme Rubatto, full-stack developer focused on AI. My magic is not giving up.">
 
-AI Engineer building LLM systems in production — RAG, tool-calling agents, and
-the part most people skip: measuring whether they actually work.
+<img src="./assets/about.svg" width="100%" alt="About. Full-stack developer building LLM systems in production: RAG, tool-calling agents, and the part most people skip, measuring whether they actually work. Python and FastAPI on the back, React and TypeScript on the front, PostgreSQL in the middle. Software Engineering student at SENAI FATESG, graduating in December 2026, based in Goiânia, Brazil. Open to remote roles.">
 
-Software Engineering student at SENAI FATESG · Goiânia, Brazil
+<img src="./assets/experience.svg" width="100%" alt="Experience. February to October 2026: Software Developer at a high-end real estate agency in Goiânia, Brazil. Shipped a WhatsApp automation system to production with about 450 backend tests, built an AI lead-qualification assistant deployed behind a feature flag, ran a Meta Ads campaign with 73 conversations in 5 days at R$4.27 each, and owned everything from requirements to deploy as the only developer.">
 
----
+<a href="https://github.com/Rubatto-Dev/edital-radar"><img src="./assets/project-edital-radar.svg" width="100%" alt="edital-radar: monitors Brazilian public tenders and surfaces the few a software vendor could realistically win. US$0.0031 per judgment, recall from 0.692 to 0.846 on an eval set written before the code, a CI regression gate and cost reconciled against an independent ledger."></a>
 
-### edital-radar — what I'm building now
+<img src="./assets/stack.svg" width="100%" alt="Stack. AI: Claude API, tool calling, RAG, pgvector, Langfuse, evals. Back: Python, FastAPI, SQLAlchemy, Pydantic, pytest, Node.js. Front: TypeScript, React, Next.js, Tailwind. Data: PostgreSQL, SQL. Delivery: Docker, GitHub Actions, SonarQube, n8n, Vercel.">
 
-An assistant that monitors Brazilian public tenders and surfaces the few a
-software vendor could realistically win. ~1,100 tenders are published per day;
-a vendor can serve maybe 3.
+<img src="./assets/languages.svg" width="100%" alt="Languages on GitHub by bytes of code across all my repositories, public and private.">
 
-- **US$0.0031 per judgment** — a three-stage cascade where a free local filter
-  discards 69% of the corpus before the paid model sees anything
-- **The evaluation set was written before the pipeline**, then used to compare
-  models: Haiku 4.5 → Sonnet 5 moved recall from 0.692 to 0.846 on an
-  identical prompt and schema
-- **A CI regression gate** that fails the build when measured quality drops —
-  verified by breaking it on purpose
-- **Langfuse tracing** with per-call cost reconciled exactly against an
-  independent ledger, surfaced on a `/metrics` panel
+<img src="./assets/education.svg" width="100%" alt="Education: Software Engineering at SENAI FATESG, Goiânia, Brazil, graduating December 2026.">
 
-→ **[github.com/Rubatto-Dev/edital-radar](https://github.com/Rubatto-Dev/edital-radar)**
+<img src="./assets/contributions.svg" width="100%" alt="Contributions in the last year, public and private, updated every day.">
 
----
+<img src="./assets/title-contact.svg" width="100%" alt="Contact">
 
-### Also here
+<a href="https://linkedin.com/in/guirubatto"><img src="./assets/contact-linkedin.svg" width="49%" alt="LinkedIn: linkedin.com/in/guirubatto"></a>
+<a href="mailto:rubattodev@gmail.com"><img src="./assets/contact-email.svg" width="49%" alt="Email: rubattodev@gmail.com"></a>
 
-- **[JobRadar](https://github.com/Rubatto-Dev/JobRadar)** — job aggregation
-  across Gupy and Remotive, with alerts and application tracking
-- **[assistente-delivery-bedrock](https://github.com/Rubatto-Dev/assistente-delivery-bedrock)** —
-  serverless delivery assistant on AWS Step Functions + Amazon Bedrock
-- **[disparo_whatsapp](https://github.com/Rubatto-Dev/disparo_whatsapp)** —
-  WhatsApp automation with n8n and Evolution API
-
----
-
-### Stack
-
-Python (FastAPI, SQLAlchemy) · PostgreSQL, pgvector · Node.js, TypeScript ·
-React, Next.js · Docker · GitHub Actions · Langfuse
-
----
-
-### Contact
-
-[LinkedIn](https://linkedin.com/in/guirubatto) ·
-rubattodev@gmail.com
+<a href="./tools"><img src="./assets/footer.svg" width="100%" alt="Every image here is drawn by code in tools/."></a>
