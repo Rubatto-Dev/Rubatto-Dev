@@ -6,6 +6,8 @@
 
 <a href="https://github.com/Rubatto-Dev/edital-radar"><img src="./assets/project-edital-radar.svg" width="100%" alt="edital-radar: monitors Brazilian public tenders and surfaces the few a software vendor could realistically win. US$0.0031 per judgment, recall from 0.692 to 0.846 on an eval set written before the code, a CI regression gate and cost reconciled against an independent ledger."></a>
 
+<a href="https://github.com/Rubatto-Dev/nf-extractor"><img src="./assets/project-nf-extractor.svg" width="100%" alt="nf-extractor: reads Brazilian invoices from photos and PDFs with Claude and hands a person a side-by-side review. 29 of 30 invoices fully correct at US$0.0005 each on Haiku 5.5. The one miss was caught by the business rules before export. Stack: TypeScript, Next.js, Claude API, PostgreSQL, Playwright."></a>
+
 <img src="./assets/stack.svg" width="100%" alt="Stack. AI: Claude API, tool calling, RAG, pgvector, Langfuse, evals. Back: Python, FastAPI, SQLAlchemy, Pydantic, pytest, Node.js. Front: TypeScript, React, Next.js, Tailwind. Data: PostgreSQL, SQL. Delivery: Docker, GitHub Actions, SonarQube, n8n, Vercel.">
 
 <img src="./assets/languages.svg" width="100%" alt="Languages on GitHub by bytes of code across all my repositories, public and private.">
