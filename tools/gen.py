@@ -207,7 +207,16 @@ def featured_project():
     return svg(W, h, "".join(panel(h) + body), alt)
 
 
-PROJECTS = []
+PROJECTS = [
+    {
+        "slug": "nf-extractor",
+        "name": "nf-extractor",
+        "pitch": "Reads Brazilian invoices from photos and PDFs with Claude and hands a person a "
+        "side-by-side review. 29 of 30 invoices fully correct at US$0.0005 each on Haiku 5.5. "
+        "The one miss was caught by the business rules before export.",
+        "stack": ["TypeScript", "Next.js", "Claude API", "PostgreSQL", "Playwright"],
+    },
+]
 
 
 def project_card(p):
