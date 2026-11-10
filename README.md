@@ -21,4 +21,4 @@
 <a href="https://linkedin.com/in/guirubatto"><img src="./assets/contact-linkedin.svg" width="49%" alt="LinkedIn: linkedin.com/in/guirubatto"></a>
 <a href="mailto:rubattodev@gmail.com"><img src="./assets/contact-email.svg" width="49%" alt="Email: rubattodev@gmail.com"></a>
 
-<a href="./tools"><img src="./assets/footer.svg" width="100%" alt="Every image here is drawn by code in tools/."></a>
+<img src="./assets/footer.svg" width="100%" alt="">

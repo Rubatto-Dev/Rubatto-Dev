@@ -281,20 +281,18 @@ def contact_button(label, detail):
 
 
 def footer():
-    """Fecho: o trevo no meio de uma linha vermelha e a assinatura do gerador."""
+    """Fecho: o trevo no meio de uma linha vermelha."""
     grid = sprites.clover(15)
     size = len(grid) * 2
-    h = size + 44
+    h = size + 16
     cx = (W - size) // 2
     mid = 8 + size // 2
-    note = "every image here is drawn by code in tools/"
     parts = [
         f'<rect x="40" y="{mid - 1}" width="{cx - 60}" height="3" fill="{RED_DIM}"/>',
         f'<rect x="{cx + size + 20}" y="{mid - 1}" width="{W - 40 - (cx + size + 20)}" height="3" fill="{RED_DIM}"/>',
         sprites.render(grid, cx, 8, 2),
-        pixel.text(note, (W - pixel.text_width(note, 2)) // 2, size + 20, 2, GREY),
     ]
-    return svg(W, h, "".join(parts), "Every image here is drawn by code in tools/.")
+    return svg(W, h, "".join(parts), "Clover")
 
 
 def main():
